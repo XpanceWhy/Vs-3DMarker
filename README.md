@@ -1,2 +1,4 @@
 # Vs-3DMarker
-When a place on the map would be selected, 
+FiveM Custom QBCORE & ESX
+- When a place on the map is selected, it makes a hovering transparent line which the person who marked can see from all around the city with the "CITY LOGO" hovering over the line that can be changed through the YTD file 
+- Customizable through config.lua 
