@@ -4,7 +4,8 @@ FiveM Custom QBCORE & ESX
 - Customizable through config.lua 
 
 # Dependencies
-QBCORE
+QBCORE 
+OR
 ESX
 
 # Links
